@@ -1,0 +1,16 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.sqlite3
+.env
+venv/
+.venv/
+.env/
+dist/
+build/
+*.egg-info/
+.DS_Store
+Thumbs.db
